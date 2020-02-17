@@ -1,6 +1,6 @@
 <p float="left">
- <img src="https://github.com/RaffaeleAns/Forecasting-/blob/master/images/DS%20Logo.png" width = "500"/>
- <img src="https://github.com/RaffaeleAns/Forecasting-/blob/master/images/Bicocca%20Logo.png" width = "100" align="right"/>
+ <img src="https://github.com/RaffaeleAns/Forecasting/blob/master/images/DS%20Logo.png" width = "500"/>
+ <img src="https://github.com/RaffaeleAns/Forecasting/blob/master/images/Bicocca%20Logo.png" width = "100" align="right"/>
 </p>
 
 # Forecasting
@@ -8,7 +8,7 @@ The aim of this project is the definition, development and validation of differe
 The goal is the daily prediction over a 11 months horizon using 9-years price data with ARIMA, UCM and Machine Leaning models.
 
 <p align = "center">
-  <img src="https://github.com/RaffaeleAns/Forecasting-/blob/master/images/forecast.png" width = "500">
+  <img src="https://github.com/RaffaeleAns/Forecasting/blob/master/images/forecast.png" width = "500">
 </p>  
 
 ## 1. The task
@@ -53,16 +53,16 @@ Finally, the analysis revealed that ARIMA, UCM and machine learning models are a
 
 
 <p align = "center">
-  <img src="https://github.com/RaffaeleAns/Forecasting-/blob/master/images/AR%20Logo.png" width = "250">
+  <img src="https://github.com/RaffaeleAns/Forecasting/blob/master/images/AR%20Logo.png" width = "250">
 </p>    
     
     
 <p align = "center">
 <a href="https://github.com/RaffaeleAns">
-<img border="0" alt="W3Schools" src="https://github.com/RaffaeleAns/Forecasting-/blob/master/images/GitHub%20Logo.png" width="20" height="20">
+<img border="0" alt="W3Schools" src="https://github.com/RaffaeleAns/Forecasting/blob/master/images/GitHub%20Logo.png" width="20" height="20">
 </a>
  <a href="https://www.linkedin.com/in/raffaele-anselmo-213a0a179">
-<img border="0" alt="do" src="https://github.com/RaffaeleAns/Forecasting-/blob/master/images/LinkedIn%20Logo.png" width="20" height="20">
+<img border="0" alt="do" src="https://github.com/RaffaeleAns/Forecasting/blob/master/images/LinkedIn%20Logo.png" width="20" height="20">
 </a>
 </p>
 
