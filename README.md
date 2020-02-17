@@ -8,7 +8,7 @@ The aim of this project is the definition, development and validation of differe
 The goal is the daily prediction over a 11 months horizon using 9-years price data with ARIMA, UCM and Machine Leaning models.
 
 <p align = "center">
-  <img src="hhttps://github.com/RaffaeleAns/Forecasting-/blob/master/images/forecast.png" width = "500">
+  <img src="https://github.com/RaffaeleAns/Forecasting-/blob/master/images/forecast.png" width = "500">
 </p>  
 
 ## 1. The task
